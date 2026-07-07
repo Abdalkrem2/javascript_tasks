@@ -1,0 +1,4 @@
+const π=3.14;
+let num=prompt("enter number: ");
+num=Number(num);
+console.log(num*π*num);

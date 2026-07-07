@@ -1,0 +1,9 @@
+let x=Number(prompt("enter number"));
+let y=Number(prompt("enter number"));
+if(x>y){
+    console.log("Hello World")
+    alert("Hello world")
+}
+else{console.log("Goodbye")
+    alert("Hello world")
+}

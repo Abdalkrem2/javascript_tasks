@@ -1,0 +1,15 @@
+var operation=prompt("enter operation: ")
+var num1= prompt("enter The first num: ")
+num1=Number(num1);
+var num2=prompt("enter The second num: ")
+num2=Number(num2)
+switch(operation){
+    case '+': console.log(num1+num2);
+    break;
+    case '-': console.log(num1-num2);
+    break;
+    case '/': console.log(num1/num2);
+    break;
+    case '*': console.log(num1*num2);
+    break;
+}
