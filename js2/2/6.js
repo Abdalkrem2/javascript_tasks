@@ -1,0 +1,15 @@
+var array = [0,5,7,9]
+array.pop()
+array.push(8)
+array.push(9)
+array.push(10)
+array.shift()
+array.shift()
+array.unshift(6)
+array.unshift(5)
+array.unshift(4)
+array.unshift(3)
+array.unshift(2)
+array.unshift(1)
+
+console.log(array)
