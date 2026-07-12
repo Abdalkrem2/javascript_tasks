@@ -9,3 +9,6 @@ counter();
 counter()
 resetCounter()
 console.log(count)
+
+let srr ="khaled";
+srr.
