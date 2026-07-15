@@ -1,0 +1,34 @@
+.registration{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 50%;
+    margin: 0 auto;
+}
+input{
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 50%;
+    margin: 0 auto;
+}
+button{
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 50%;
+    margin: 0 auto;
+    background-color: #000;
+    color: white;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 50%;
+    margin: 0 auto;
+}
